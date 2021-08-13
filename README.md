@@ -4,5 +4,6 @@ The deep learning concept for image segmentation in a purely unsupervised scenar
 There are two main files for two proposed approaches. Both main files can be run seperately.
 
 
-(i) The file named "main10.2(with_classifier_approach)(for_cifar_stl_pascal)" is the code for the proposed first approach for segmentation. \n
+(i) The file named "main10.2(with_classifier_approach)(for_cifar_stl_pascal)" is the code for the proposed first approach for segmentation. 
+
 (ii) The file named "main8.4(with_autoencoder_approach)(for_cifar_stl_pascal)" is the code for the proposed second approach for segmentation.
