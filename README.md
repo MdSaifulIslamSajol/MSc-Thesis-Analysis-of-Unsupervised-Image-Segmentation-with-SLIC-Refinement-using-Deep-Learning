@@ -9,6 +9,6 @@ There are two main files for the proposed two approaches. Both main files can be
 (iv) [HelperFunctions.py](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/bdcbca486a6eeebbd5c1db4a01c870c9f421b25b/MyHelpers.py) and [MyHelpers.py](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/bdcbca486a6eeebbd5c1db4a01c870c9f421b25b/MyHelpers.py) are other helper functions used to configure/show/plot results .  
 (v) The **Powerpoint Presentation** of this project can be found [here](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/1ac6b9bffc4d5d5d044d3d4e0a4e87ba1be8b237/Powerpoint%20Presentation.pdf)
 
-(vi) (v) A ** Short video** of this project is [here](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/1ac6b9bffc4d5d5d044d3d4e0a4e87ba1be8b237/Powerpoint%20Presentation.pdf)
+(vi) (v) A **Short video** of this project is [here](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/1ac6b9bffc4d5d5d044d3d4e0a4e87ba1be8b237/Powerpoint%20Presentation.pdf)
 
   
