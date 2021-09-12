@@ -11,4 +11,4 @@ There are two main files for the proposed two approaches. Both main files can be
 
 (vi) (v) A **Short video** of this project is [here](https://github.com/MdSaifulIslamSajol/MSc-Thesis-Analysis-of-Unsupervised-Image-Segmentation-with-SLIC-Refinement-using-Deep-Learning/blob/1ac6b9bffc4d5d5d044d3d4e0a4e87ba1be8b237/Powerpoint%20Presentation.pdf)
 
-  
+(vii) Click [here](https://drive.google.com/file/d/19lwFcZI2TNt4EA5ychGfEToB11YjoS6i/view?usp=sharing) for **Thesis Report ** 
